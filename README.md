@@ -2,6 +2,10 @@
 
 A lightweight Vue 3 weather metasearch frontend with a Google-like search layout, selectable providers, local proxy routes, and light/dark mode.
 
+## Try the GUI version.
+
+https://github.com/end-sky/sunbeam-weather
+
 ## Providers
 
 - **Open-Meteo** — no API key. Direct browser request for current + 7-day forecast.
